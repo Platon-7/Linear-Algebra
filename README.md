@@ -1,7 +1,5 @@
 # Linear-Algebra
 
-# Course Overview
-
 This course is from the final semester of my studies. It consisted of 3 optional theory exercises and 3 mandatory projects that overall accounted for 40% of the final grade.
 
 ## Syllabus:
